@@ -6,5 +6,5 @@ Made with Claude Design by Taylor Giddens.
 
 ## Instructions
 
-1. Download and tweak or modify however you like.
+1. Download and tweak or modify marc_globe.html however you like.
 2. **ORDERS_JSON** is where you edit the dummy data.
